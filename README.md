@@ -1,2 +1,2 @@
-# Symmetric-cipher-Algorithms
-Implementation of Symmetric cipher algorithm (AES and RC4)
+# Cryptographic-Algorithms
+Implementation of Symmetric and Asymmetric cipher algorithms.
